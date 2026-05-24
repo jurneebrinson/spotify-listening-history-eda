@@ -1,0 +1,16 @@
+# Data files — not committed (see README for setup instructions)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
